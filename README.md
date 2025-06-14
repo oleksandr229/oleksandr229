@@ -15,12 +15,13 @@
   <img alt='coding' align='right' height='300' src="https://github.com/kentaurse/kentaurse/blob/main/assests/images/coding.gif" />
 
   <ul>
-  <li>💼 <strong>Current Role</strong>: Fullstack & Blockchain Developer and Project Manager with a proven track record of delivering high-quality solutions.</li>
-  <li>👨‍💼 <strong>Team Leadership</strong>: Leading a talented team of developers, fostering collaboration and innovation.</li>
-  <li>🌱 <strong>Currently Learning</strong>: Advanced smart contract development and decentralized finance (DeFi).</li>
-  <li>💬 <strong>Expertise</strong>: Blockchain, Project Management, Full-stack Development. Open to new ideas and strategic insights.</li>
-  <li>😄 <strong>Pronouns</strong>: he/him</li>
-</ul>
+    <li>✔ Full-stack development with Next.js and Nuxt.js</li>
+    <li>✔ CMS and CRM system integration and customization</li>
+    <li>✔ E-commerce platform development and optimization</li>
+    <li>✔ API design, integration, and troubleshooting</li>
+    <li>✔ Cloud deployment and DevOps with AWS and Firebase</li>
+    <li>✔ Rapid bug identification and resolution</li>
+  </ul>
 
 </div>
 
