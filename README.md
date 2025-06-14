@@ -9,8 +9,7 @@
 ​
 <div>
   <p>
-     I am a senior full-stack developer with over 10 years of experience in software development across various industries, with the five most recent years focused on MERN/Django/Laravel/Wordpress.
-    I am well-respected among my clients as a skilled developer who truly understands the client infrastructure and pain points. What sets my apart is my ability to ramp up new technologies and her problem-solving skills quickly.  I thrive on new challenges and enjoys pushing herself to learn and grow.
+     Let's create something new together.
   </p>
   
   <img alt='coding' align='right' height='300' src="https://github.com/kentaurse/kentaurse/blob/main/assests/images/coding.gif" />
