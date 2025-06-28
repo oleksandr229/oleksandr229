@@ -15,7 +15,7 @@
   <img alt='coding' align='right' height='300' src="https://github.com/kentaurse/kentaurse/blob/main/assests/images/coding.gif" />
 
   <ul>
-    <li>✔ Full-stack development with Next.js and Nuxt.js</li>
+    <li>✔ Full-stack development with Next.js, Nuxt.js, Laravel</li>
     <li>✔ CMS and CRM system integration and customization</li>
     <li>✔ E-commerce platform development and optimization</li>
     <li>✔ API design, integration, and troubleshooting</li>
